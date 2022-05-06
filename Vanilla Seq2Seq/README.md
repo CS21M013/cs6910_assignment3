@@ -19,3 +19,4 @@ CS6910_vanilla_seq2seq.ipynb
 ```
 python3 best_train.py
 ```
+The execution of the above files 
