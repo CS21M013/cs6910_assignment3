@@ -33,3 +33,9 @@ matplotlib
       2.Connectivity.html (html file denoting the connectivity among different characters in a word)  
       3.success.txt (correct predictions)  
       4.failure.txt (wrong predictions)
+
+### Validation accuracy and the test accuracy of the best trained model
+```
+Validation Accuracy:  0.41358733073215515
+Test Accuracy:  0.40679848922461675
+```
