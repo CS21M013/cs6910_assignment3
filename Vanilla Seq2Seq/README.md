@@ -7,4 +7,6 @@ The folder contains the follwing files:
 4. model.py - The python file containg the entire model template using encoder and decoder architecture
 5. predict.py - The python file that will be used to get the predictions of the best model on the test data
 6. train_Hyperprameter_Tuning.py - The python file is for performing the sweeps or the hyperparameter tuning of the model for some parameters
-7. util.py This python file contains some functions that can be used as utilitary functions for the training and the model development and testing of the model.
+7. util.py This python file contains some functions that can be used as utilitary functions for the training and the model development and testing of the model.  
+## The Best model architecture can be visualized as follows  
+![Screenshot](model.png)
