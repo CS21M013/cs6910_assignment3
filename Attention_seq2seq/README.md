@@ -74,7 +74,7 @@ iso आइसो आईएसओ
 ```
 ### Visualizations of the attention weights for the Best Model
 ![Screenshot](https://github.com/CS21M013/CS6910_assignment3/blob/main/Attention_seq2seq/visualizations/Untitled%20Diagram.drawio.png)
-### Visualization of the connectivity ffor the Best Model
+### Visualization of the connectivity for the Best Model
 ![image](https://github.com/CS21M013/CS6910_assignment3/blob/main/Attention_seq2seq/visualizations/connectivity.PNG)
 
 ### References
