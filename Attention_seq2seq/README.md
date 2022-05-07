@@ -75,4 +75,7 @@ iso आइसो आईएसओ
 ### Visualizations of the attention weights
 ![Screenshot](https://github.com/CS21M013/CS6910_assignment3/blob/main/Attention_seq2seq/visualizations/Untitled%20Diagram.drawio.png)
 ### visulaization of the connectivity
-![image]()
+![image](https://github.com/CS21M013/CS6910_assignment3/blob/main/Attention_seq2seq/visualizations/connectivity.PNG)
+
+### References
+    1. 
