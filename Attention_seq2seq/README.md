@@ -39,3 +39,38 @@ matplotlib
 Validation Accuracy:  0.41358733073215515
 Test Accuracy:  0.40679848922461675
 ```
+### some of the predictions of the model including successful and the failed predictions are as follows - 
+Successful predictions
+```
+Input   True    Predicted
+erica एरिका एरिका
+erika एरिका एरिका
+eliminator एलिमिनेटर एलिमिनेटर
+sfc एसएफसी एसएफसी
+sk एसके एसके
+spf एसपीएफ एसपीएफ
+aster एस्टर एस्टर
+ester एस्टर एस्टर
+asthetic एस्थेटिक एस्थेटिक
+ehsas एहसास एहसास
+ainth ऐंठ ऐंठ
+enth ऐंठ ऐंठ
+```
+Failed Predictions of the attention based model
+```
+asaamnjsy असामंजस्य असामजन्य
+asamanjasy असामंजस्य असमंजस्य
+asamanjasya असामंजस्य असमंजस्य
+asset असेट एसेट
+asvabhavik अस्वभाविक अस्वाभाविक
+aswabhavik अस्वभाविक अस्वाभाविक
+aswbhavik अस्वभाविक अस्बाभाविक
+item आइटम आइटेम
+items आइटम्स आइटेम्स
+idle आइडल आईडल
+idol आइडल आईडल
+icc आइसीसी आईसीसी
+iso आइसो आईएसओ
+```
+### Visualizations of the attention weights
+
