@@ -35,4 +35,36 @@ The folder contains the follwing files:
 Validation Accuracy 0.39031665901789814
 Test Accuracy 0.38605064415815193
 ```
+### Some of the sample inputs and the predictions are as folllows:
+Thus the model's successful predictions are as follows:
+```
+Input   True    Predicted
+ashriton आश्रितों आश्रितों
+aastik आस्तिक आस्तिक
+astik आस्तिक आस्तिक
+aahnaan आह्नान आह्नान
+aahnan आह्नान आह्नान
+equities इक्विटीज इक्विटीज
+ilaichi इलाइची इलाइची
+ilaj इलाज इलाज
+ishaaq इशाक इशाक
+ishaara इशारा इशारा
+ishaaraa इशारा इशारा
+```
+Now some of the failed predictions are:
+```
+Input   True    Predicted
+asvabhavik अस्वभाविक अस्वाभाविक
+aswabhavik अस्वभाविक अस्वाभाविक
+aswbhavik अस्वभाविक अस्वाभिक
+item आइटम आईटम
+items आइटम्स आईटम्स
+idle आइडल आईडल
+idol आइडल आईडल
+icc आइसीसी आईसीसी
+iso आइसो आईएसओ
+ipad आईपैड इपाद
+iris आईरिस आइरिस
+ounce आउंस ऊंसे
+```
 
