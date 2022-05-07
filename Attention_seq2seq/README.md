@@ -73,4 +73,4 @@ icc आइसीसी आईसीसी
 iso आइसो आईएसओ
 ```
 ### Visualizations of the attention weights
-![image](visualizations/Untitled Diagram.drawio.png)
+![Screenshot](visualizations/Untitled Diagram.drawio.png)
