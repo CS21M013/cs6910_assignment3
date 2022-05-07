@@ -7,7 +7,7 @@ The repository contains the following files and folders.
 4. decoder.py - This python file contains the class of the decoders (RNN,LSTM and GRU).
 5. encoder.py - This python file contains the class of the encoders (RNN, LSTM and GRU).
 6. train_util.py - This python file contains functions that aid in the training of the model.
-7. prediction_plots_util.py - This python file contains the functions that help in ploting the attention weights and the connectivity.
+7. prediction_plots_util.py - This python file contains the functions that help in ploting the attention weights and the connectivity. The functions defined in this file have been refered from different sources from the internet and also from the sources provided in the problem statement itself.
 8. hyperparameter_tuning_train.py - This python file contains the function to perform the hyper-paramater tuning or sweeping to get the best parameters of the model.
 9. best_train.py - This python file contains the manual_train function to train and evaluate the best model after hyper-paramter tuning.
 
@@ -72,10 +72,17 @@ idol आइडल आईडल
 icc आइसीसी आईसीसी
 iso आइसो आईएसओ
 ```
-### Visualizations of the attention weights
+### Visualizations of the attention weights for the Best Model
 ![Screenshot](https://github.com/CS21M013/CS6910_assignment3/blob/main/Attention_seq2seq/visualizations/Untitled%20Diagram.drawio.png)
-### Visualization of the connectivity
+### Visualization of the connectivity ffor the Best Model
 ![image](https://github.com/CS21M013/CS6910_assignment3/blob/main/Attention_seq2seq/visualizations/connectivity.PNG)
 
 ### References
-    1. 
+    1. All the sources and slides provided as the course material and in the problem statement
+    2. https://stackoverflow.com/questions/44526794/matplotlib-pyplot-labels-not-displaying-hindi-text-in-labels
+    3. Write your own custom attention layer: https://towardsdatascience.com/create-your-own-custom-attention-layer-understand-all-flavours-2201b5e8be9e
+    4. Teacher forcing: https://machinelearningmastery.com/teacher-forcing-for-recurrent-neural-networks/
+    5. connectivity Visualization: https://distill.pub/2019/memorization-in-rnns/#appendix-autocomplete
+    6. Visualizing LSTM Activations: https://towardsdatascience.com/visualising-lstm-activations-in-keras-b50206da96ff
+    7. Intuition behind attention: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+    8. Keras.io
