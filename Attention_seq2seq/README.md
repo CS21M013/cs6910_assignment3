@@ -20,7 +20,7 @@ numpy
 matplotlib
 ```
 ### Execution of the code
-1. Run the below mentioned .ipynb code entirely to perform the model training with the best set of hyper-paramaters. The cells corresponding to the wandb sweeping need not be run.
+1. Run the below mentioned .ipynb code entirely to perform the model training with the best set of hyper-paramaters. The cells corresponding to the wandb sweeping need not be run. You need to upload the Nirmala.ttf to the google colab before executing the code.
     ```
     cs6910_assignment3_attention.ipynb
     ```
