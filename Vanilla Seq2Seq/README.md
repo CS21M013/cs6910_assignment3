@@ -67,4 +67,7 @@ ipad आईपैड इपाद
 iris आईरिस आइरिस
 ounce आउंस ऊंसे
 ```
-
+### References
+    1. Course slides of CS6910
+    2. Blogs provided in the problem statement
+    3. coding seq2seq models - https://keras.io/examples/nlp/lstm_seq2seq/
