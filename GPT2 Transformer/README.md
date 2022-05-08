@@ -3,7 +3,7 @@ Authors: Anurag Mahendra Shukla (CS21M007) and Chandra Churh Chatterjee (CS21M01
 
 ## File Descriptions:
 
-### Generation_GPT2.ipynb
-Jupyter 
+### GPT2_Training.ipynb
+Jupyter notebook containing code for fine-tuning the GPT2 model
 
 ### Generation_GPT2.ipynb
