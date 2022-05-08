@@ -11,9 +11,9 @@ Jupyter notebook containing code for generating lyrics using the fine-tuned GPT2
 
 
 ## Note: 
-```
+
 GPT2_Training.ipynb can only be run on Google Colab Pro due to the memory consumed while fine-tuning GPT2 model. Running it on Google Colab (Free version) will raise memory error.
-```
+
 
 
 Because training requires a Google Colab Pro or a powerful GPU(If running on the local machine), we have already trained the model and saved it on Drive.
